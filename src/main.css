@@ -1,0 +1,10 @@
+/* App.css */
+body {
+    background-image: url('/src/assets/Tin-Cans.jpg'); /* Adjust the path based on your setup */
+    background-size: cover; /* Ensure the image covers the entire viewport */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent tiling */
+    margin: 0; /* Remove default margin */
+    height: 100vh; /* Set height to viewport */
+    width: 100vw; /* Set width to viewport */
+}
